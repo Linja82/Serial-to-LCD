@@ -1,5 +1,5 @@
 # Serial-to-LCD
-Arduino code for displaying text from the serial port on a 2*16 character LCD
+Arduino code for displaying text from the serial port on a 2*16 character I^2C LCD
 
 ## Libraries Used
 The Liquid Crystal i^2C library by fdebrabander and João Pedro São Gregorio Silva is used.  
@@ -14,4 +14,4 @@ The code follows this flowchart:
 
 ## Examples  
 Input: "It is currently^10:00 AM"  
-Output: 
+Output: <img src="https://github.com/Linja82/Serial-to-LCD/blob/main/Screenshots/Example%201.jpg" alt="alt text">
