@@ -13,5 +13,5 @@ The code follows this flowchart:
 <img src="https://github.com/Linja82/Serial-to-LCD/blob/main/Screenshots/String%20Convertor%20Flowchart.jpg" alt ="alt text" width="585" height="417">  
 
 ## Examples  
-Input: "It is currently^10:00 AM"
+Input: "It is currently^10:00 AM"  
 Output: 
