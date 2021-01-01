@@ -1,5 +1,5 @@
 # Serial-to-LCD
-Arduino code for displaying text from the serial port on a 2*16 character I^2C LCD
+Arduino code for displaying text from the serial port onto a 16*2 character LCD
 
 ## Libraries Used
 The Liquid Crystal i^2C library by fdebrabander and João Pedro São Gregorio Silva is used.  
