@@ -5,3 +5,7 @@ Arduino code for displaying text from the serial port on a 2*16 character LCD
 The Liquid Crystal i^2C library by fdebrabander and João Pedro São Gregorio Silva is used.  
 Link: https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library  
 
+## Description  
+The program takes strings from the serial input and displays them in the most convenient way on the LCD. The '^' symbol can be used to manually set the text onto the next display line. 
+
+The code follows this flowchart:
