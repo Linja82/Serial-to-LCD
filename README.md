@@ -10,4 +10,4 @@ The program takes strings from the serial input and displays them in the most co
 
 The code follows this flowchart:  
   
-![alt text](https://github.com/Linja82/Serial-to-LCD/blob/main/Screenshots/String%20Convertor%20Flowchart.jpg | width=585 | height=417)
+![](https://github.com/Linja82/Serial-to-LCD/blob/main/Screenshots/String%20Convertor%20Flowchart.jpg | width=585 | height=417)
