@@ -14,4 +14,5 @@ The code follows this flowchart:
 
 ## Examples  
 Input: "It is currently^10:00 AM"  
-Output: <img src="https://github.com/Linja82/Serial-to-LCD/blob/main/Screenshots/Example%201.jpg" alt="alt text">
+Output:  
+<img src="https://github.com/Linja82/Serial-to-LCD/blob/main/Screenshots/Example%201.jpg" alt="alt text" width="371" height="113">
